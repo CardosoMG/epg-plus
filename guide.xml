@@ -1,0 +1,787 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="AMC [Brazil]">
+    <display-name lang="pt">AMC [Brazil]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Animal Planet [Brazil]">
+    <display-name lang="pt">Animal Planet [Brazil]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Arte 1 [Brazil]">
+    <display-name lang="pt">Arte 1 [Brazil]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="AXN [Brazil]">
+    <display-name lang="pt">AXN [Brazil]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="AXN HD [Brazil]">
+    <display-name lang="pt">AXN HD [Brazil]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Baby TV [Brazil]">
+    <display-name lang="pt">Baby TV [Brazil]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Band News [Brazil]">
+    <display-name lang="pt">Band News [Brazil]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Band Rede [Brazil]">
+    <display-name lang="pt">Band Rede [Brazil]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="ESPN">
+    <display-name lang="pt">ESPN</display-name>
+    <icon src="http://www.lineup.tv.br/canais/espn.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="ESPN +">
+    <display-name lang="pt">ESPN +</display-name>
+    <icon src="http://www.lineup.tv.br/canais/espnmais.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="ESPN Brasil">
+    <display-name lang="pt">ESPN Brasil</display-name>
+    <icon src="http://www.lineup.tv.br/canais/espnbrasil.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="ESPN Extra">
+    <display-name lang="pt">ESPN Extra</display-name>
+    <icon src="http://www.lineup.tv.br/canais/espnextra.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Esporte Interativo">
+    <display-name lang="pt">Esporte Interativo</display-name>
+    <icon src="http://www.lineup.tv.br/canais/esporteinterativo.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Esporte Interativo 2">
+    <display-name lang="pt">Esporte Interativo 2</display-name>
+    <icon src="http://www.lineup.tv.br/canais/esporteinterativo2.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <programme start="20180408191500 -0300" stop="20180408202000 -0300" channel="AMC [Brazil]">
+    <title lang="pt">Fear The Walking Dead</title>
+    <category lang="pt">Séries/Terror</category>
+  </programme>
+  <programme start="20180408202000 -0300" stop="20180408223000 -0300" channel="AMC [Brazil]">
+    <title lang="pt">Riddick 3</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20180408223000 -0300" stop="20180408232500 -0300" channel="AMC [Brazil]">
+    <title lang="pt">Fear The Walking Dead</title>
+    <category lang="pt">Séries/Terror</category>
+  </programme>
+  <programme start="20180408232500 -0300" stop="20180409002000 -0300" channel="AMC [Brazil]">
+    <title lang="pt">The Terror</title>
+    <category lang="pt">Séries/Drama</category>
+  </programme>
+  <programme start="20180408192000 -0300" stop="20180408195000 -0300" channel="Animal Planet [Brazil]">
+    <title lang="pt">Aprendiz Animal</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20180408195000 -0300" stop="20180408204000 -0300" channel="Animal Planet [Brazil]">
+    <title lang="pt">Aventura Selvagem</title>
+    <category lang="pt">Séries/Aventura</category>
+  </programme>
+  <programme start="20180408204000 -0300" stop="20180408213000 -0300" channel="Animal Planet [Brazil]">
+    <title lang="pt">Havaí Desconhecido</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20180408213000 -0300" stop="20180408222500 -0300" channel="Animal Planet [Brazil]">
+    <title lang="pt">Patagônia Selvagem</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20180408222500 -0300" stop="20180408232000 -0300" channel="Animal Planet [Brazil]">
+    <title lang="pt">Patagônia Selvagem</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20180408232000 -0300" stop="20180409001500 -0300" channel="Animal Planet [Brazil]">
+    <title lang="pt">Patagônia Selvagem</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20180408193000 -0300" stop="20180408203000 -0300" channel="Arte 1 [Brazil]">
+    <title lang="pt">Arte 1 Visual</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20180408203000 -0300" stop="20180408210000 -0300" channel="Arte 1 [Brazil]">
+    <title lang="pt">Arte 1 Comtexto</title>
+    <category lang="pt">Jornalismo/Cultural</category>
+  </programme>
+  <programme start="20180408210000 -0300" stop="20180408220000 -0300" channel="Arte 1 [Brazil]">
+    <title lang="pt">Bio Arte 1</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20180408220000 -0300" stop="20180408223000 -0300" channel="Arte 1 [Brazil]">
+    <title lang="pt">Fotógrafos</title>
+    <category lang="pt">Séries/Biografia</category>
+  </programme>
+  <programme start="20180408223000 -0300" stop="20180409001500 -0300" channel="Arte 1 [Brazil]">
+    <title lang="pt">Arte 1 Nacional</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20180408193500 -0300" stop="20180408200000 -0300" channel="AXN [Brazil]">
+    <title lang="pt">Sem Rastro</title>
+    <category lang="pt">Séries/Investigação</category>
+  </programme>
+  <programme start="20180408200000 -0300" stop="20180408205000 -0300" channel="AXN [Brazil]">
+    <title lang="pt">Investigação Criminal: Crimes Perversos</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20180408205000 -0300" stop="20180408211500 -0300" channel="AXN [Brazil]">
+    <title lang="pt">Olhar Digital</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20180408211500 -0300" stop="20180408220000 -0300" channel="AXN [Brazil]">
+    <title lang="pt">Criminal Minds</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20180408220000 -0300" stop="20180408225000 -0300" channel="AXN [Brazil]">
+    <title lang="pt">Scorpion</title>
+    <category lang="pt">Séries/Drama</category>
+  </programme>
+  <programme start="20180408225000 -0300" stop="20180408234000 -0300" channel="AXN [Brazil]">
+    <title lang="pt">Investigação Criminal: Crimes Perversos</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20180408234000 -0300" stop="20180409000500 -0300" channel="AXN [Brazil]">
+    <title lang="pt">Olhar Digital</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20180408193500 -0300" stop="20180408200000 -0300" channel="AXN HD [Brazil]">
+    <title lang="pt">Sem Rastro</title>
+    <category lang="pt">Séries/Investigação</category>
+  </programme>
+  <programme start="20180408200000 -0300" stop="20180408205000 -0300" channel="AXN HD [Brazil]">
+    <title lang="pt">Investigação Criminal: Crimes Perversos</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20180408205000 -0300" stop="20180408211500 -0300" channel="AXN HD [Brazil]">
+    <title lang="pt">Olhar Digital</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20180408211500 -0300" stop="20180408220000 -0300" channel="AXN HD [Brazil]">
+    <title lang="pt">Criminal Minds</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20180408220000 -0300" stop="20180408225000 -0300" channel="AXN HD [Brazil]">
+    <title lang="pt">Scorpion</title>
+    <category lang="pt">Séries/Drama</category>
+  </programme>
+  <programme start="20180408225000 -0300" stop="20180408234000 -0300" channel="AXN HD [Brazil]">
+    <title lang="pt">Investigação Criminal: Crimes Perversos</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20180408234000 -0300" stop="20180409000500 -0300" channel="AXN HD [Brazil]">
+    <title lang="pt">Olhar Digital</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20180408193000 -0300" stop="20180408200000 -0300" channel="Baby TV [Brazil]">
+    <title lang="pt">Boa Noite Ursinho</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180408200000 -0300" stop="20180408203000 -0300" channel="Baby TV [Brazil]">
+    <title lang="pt">Que Dia Maravilhoso</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180408203000 -0300" stop="20180408210000 -0300" channel="Baby TV [Brazil]">
+    <title lang="pt">Bola de Cristal</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180408210000 -0300" stop="20180408213000 -0300" channel="Baby TV [Brazil]">
+    <title lang="pt">Canções e Rimas</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180408213000 -0300" stop="20180408220000 -0300" channel="Baby TV [Brazil]">
+    <title lang="pt">Estrela Cadente</title>
+    <category lang="pt">Séries/Infantil</category>
+  </programme>
+  <programme start="20180408220000 -0300" stop="20180408223000 -0300" channel="Baby TV [Brazil]">
+    <title lang="pt">Milky Way</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180408223000 -0300" stop="20180408230000 -0300" channel="Baby TV [Brazil]">
+    <title lang="pt">Oceano</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180408230000 -0300" stop="20180408233000 -0300" channel="Baby TV [Brazil]">
+    <title lang="pt">Concertino</title>
+    <category lang="pt">Séries/Infantil</category>
+  </programme>
+  <programme start="20180408233000 -0300" stop="20180409000000 -0300" channel="Baby TV [Brazil]">
+    <title lang="pt">Flor</title>
+    <category lang="pt">Séries/Infantil</category>
+  </programme>
+  <programme start="20180408180000 -0300" stop="20180408220000 -0300" channel="Band News [Brazil]">
+    <title lang="pt">Fim de Semana Bandnews</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180408220000 -0300" stop="20180408223000 -0300" channel="Band News [Brazil]">
+    <title lang="pt">Conexão com The New York Times</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180408223000 -0300" stop="20180408232000 -0300" channel="Band News [Brazil]">
+    <title lang="pt">Fim de Semana Bandnews</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180408232000 -0300" stop="20180408233000 -0300" channel="Band News [Brazil]">
+    <title lang="pt">Coluna e Meia com Salomão</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180408233000 -0300" stop="20180409000000 -0300" channel="Band News [Brazil]">
+    <title lang="pt">Fim de Semana Bandnews</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180408175000 -0300" stop="20180408194500 -0300" channel="Band Rede [Brazil]">
+    <title lang="pt">3º Tempo</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180408194500 -0300" stop="20180408220000 -0300" channel="Band Rede [Brazil]">
+    <title lang="pt">Só Risos</title>
+    <category lang="pt">Variedades/Comédia</category>
+  </programme>
+  <programme start="20180408220000 -0300" stop="20180409000000 -0300" channel="Band Rede [Brazil]">
+    <title lang="pt">Domingo No Cinema: Atrás Das Linhas Inimigas</title>
+    <category lang="pt">Filme/Guerra</category>
+  </programme>
+  <programme start="20180408000000 -0300" stop="20180408003000 -0300" channel="ESPN">
+    <title lang="pt">NBA Action</title>
+    <desc lang="pt">As estrelas da NBA desfilam com os melhores lances, jogadas, enterradas e arremessos. Confira também a classificação das conferências do Leste e Oeste, além das 10 melhores jogadas da semana(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Basquete</category>
+  </programme>
+  <programme start="20180408003000 -0300" stop="20180408013000 -0300" channel="ESPN">
+    <title lang="pt">Sportscenter</title>
+    <desc lang="pt">Um mosaico do que acontece no futebol, basquete, vôlei e automobilismo em todas as partes do mundo. 'SportsCenter" está sempre em cima do lance, contando tudo com uma dose de humor(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20180408013000 -0300" stop="20180408023000 -0300" channel="ESPN">
+    <title lang="pt">Sportscenter: 3ª Edição</title>
+    <desc lang="pt">Um mosaico do que acontece no futebol, basquete, vôlei e automobilismo em todas as partes do mundo. 'SportsCenter" está sempre em cima do lance, contando tudo com uma dose de humor(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20180408023000 -0300" stop="20180408041500 -0300" channel="ESPN">
+    <title lang="pt">Everton x Liverpool</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20180408041500 -0300" stop="20180408060000 -0300" channel="ESPN">
+    <title lang="pt">Vitória de Setúbal x Benfica</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20180408060000 -0300" stop="20180408070000 -0300" channel="ESPN">
+    <title lang="pt">Sportscenter: 3ª Edição</title>
+    <desc lang="pt">Um mosaico do que acontece no futebol, basquete, vôlei e automobilismo em todas as partes do mundo. 'SportsCenter" está sempre em cima do lance, contando tudo com uma dose de humor(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20180408070000 -0300" stop="20180408080000 -0300" channel="ESPN">
+    <title lang="pt">Sportscenter: 3ª Edição</title>
+    <desc lang="pt">Um mosaico do que acontece no futebol, basquete, vôlei e automobilismo em todas as partes do mundo. 'SportsCenter" está sempre em cima do lance, contando tudo com uma dose de humor(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20180408080000 -0300" stop="20180408102000 -0300" channel="ESPN">
+    <title lang="pt">Jogos Inesquecíveis 1978: Argentina x Holanda</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20180408102000 -0300" stop="20180408122500 -0300" channel="ESPN">
+    <title lang="pt">Borussia Dortmund x Stuttgart - Vivo</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20180408122500 -0300" stop="20180408125000 -0300" channel="ESPN">
+    <title lang="pt">A Caminho da Rússia</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180408125000 -0300" stop="20180408150000 -0300" channel="ESPN">
+    <title lang="pt">Udinese x Lazio - Vivo</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20180408150000 -0300" stop="20180408200000 -0300" channel="ESPN">
+    <title lang="pt">Golfe: Masters - Vivo</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Golfe</category>
+  </programme>
+  <programme start="20180408200000 -0300" stop="20180408210000 -0300" channel="ESPN">
+    <title lang="pt">Espn League</title>
+    <desc lang="pt">Um mosaico do que acontece no esporte em todo o mundo. Os fatos mais importantes, gols, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada, opinião transparente, sem abrir mão do bom humor(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180408210000 -0300" stop="20180409000000 -0300" channel="ESPN">
+    <title lang="pt">MLB: New York Mets x Washington Nationals - Vivo</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Beisebol</category>
+  </programme>
+  <programme start="20180408010000 -0300" stop="20180408013000 -0300" channel="ESPN +">
+    <title lang="pt">Sportscenter Americano - Vivo</title>
+    <desc lang="pt">O emblemático telejornal da ESPN fornece a mais profunda e divertida apresentação das notícias esportivas da noite anterior e do dia atual(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20180408013000 -0300" stop="20180408030000 -0300" channel="ESPN +">
+    <title lang="pt">Sportscenter Americano - Vivo</title>
+    <desc lang="pt">O emblemático telejornal da ESPN fornece a mais profunda e divertida apresentação das notícias esportivas da noite anterior e do dia atual(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20180408030000 -0300" stop="20180408050000 -0300" channel="ESPN +">
+    <title lang="pt">Atlanta United FC x Lafc</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20180408050000 -0300" stop="20180408070000 -0300" channel="ESPN +">
+    <title lang="pt">Celta x Sevilla</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20180408070000 -0300" stop="20180408073000 -0300" channel="ESPN +">
+    <title lang="pt">NBA Action</title>
+    <desc lang="pt">As estrelas da NBA desfilam com os melhores lances, jogadas, enterradas e arremessos. Confira também a classificação das conferências do Leste e Oeste, além das 10 melhores jogadas da semana(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Basquete</category>
+  </programme>
+  <programme start="20180408073000 -0300" stop="20180408100000 -0300" channel="ESPN +">
+    <title lang="pt">NBA: Oklahoma City Thunder x Houston Rockets</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Basquete</category>
+  </programme>
+  <programme start="20180408100000 -0300" stop="20180408130000 -0300" channel="ESPN +">
+    <title lang="pt">Ciclismo: Paris-Roubaix - Vivo</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Ciclismo</category>
+  </programme>
+  <programme start="20180408130000 -0300" stop="20180408132500 -0300" channel="ESPN +">
+    <title lang="pt">Arena Esports</title>
+    <desc lang="pt">Um giro pelos esportes eletrônicos: as principais competições e notícias do mundo dos games(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180408132500 -0300" stop="20180408153000 -0300" channel="ESPN +">
+    <title lang="pt">Real Sociedad x Girona - Vivo</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20180408153000 -0300" stop="20180408154500 -0300" channel="ESPN +">
+    <title lang="pt">NBA Countdown</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Basquete</category>
+  </programme>
+  <programme start="20180408154500 -0300" stop="20180408170000 -0300" channel="ESPN +">
+    <title lang="pt">EA Sports Madden NFL 18 Ultimate League</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol Americano</category>
+  </programme>
+  <programme start="20180408170000 -0300" stop="20180408190000 -0300" channel="ESPN +">
+    <title lang="pt">MLS: Orlando City SC x Portland Timbers - Vivo</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20180408190000 -0300" stop="20180408193000 -0300" channel="ESPN +">
+    <title lang="pt">Credencial ESPN: William Tavares</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20180408193000 -0300" stop="20180408200000 -0300" channel="ESPN +">
+    <title lang="pt">Destino Confidencial: Fenômeno Islândia</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20180408200000 -0300" stop="20180408223000 -0300" channel="ESPN +">
+    <title lang="pt">NBA G League Playoffs - Vivo</title>
+    <desc lang="pt">A Liga de desenvolvimento da NBA também esta nos canais ESPN. Acompanhe as Semifinais que mostram as futuras estrelas da NBA e também veteranos que tentam recuperar algum espaço em algum grande time da NBA!(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Boxe</category>
+  </programme>
+  <programme start="20180408223000 -0300" stop="20180409003000 -0300" channel="ESPN +">
+    <title lang="pt">Manchester City x Manchester United</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20180408003000 -0300" stop="20180408023000 -0300" channel="ESPN Brasil">
+    <title lang="pt">Manchester City x Manchester United</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20180408023000 -0300" stop="20180408030000 -0300" channel="ESPN Brasil">
+    <title lang="pt">Credencial ESPN: William Tavares</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20180408030000 -0300" stop="20180408050000 -0300" channel="ESPN Brasil">
+    <title lang="pt">Benevento x Juventus</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20180408050000 -0300" stop="20180408065000 -0300" channel="ESPN Brasil">
+    <title lang="pt">Manchester City x Manchester United</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20180408065000 -0300" stop="20180408072000 -0300" channel="ESPN Brasil">
+    <title lang="pt">Último Trem Para a Rússia E3</title>
+    <desc lang="pt">Série original da ESPN: Último Trem para Rússia: De São Petesburgo à Sibéria, a Rússia - maior país do mundo- pode ser atravessada inteira pelos trens da linha Trans-Siberiana(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180408072000 -0300" stop="20180408091500 -0300" channel="ESPN Brasil">
+    <title lang="pt">Torino x Inter - Vivo</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20180408091500 -0300" stop="20180408100500 -0300" channel="ESPN Brasil">
+    <title lang="pt">Abre o Jogo: Premier League - Vivo</title>
+    <desc lang="pt">O "Abre o Jogo" abre a transmissão dos eventos ao vivo nos canais ESPN. Reportagens especiais, as últimas notícias e as informações atualizadas do torneio que virá a seguir(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20180408100500 -0300" stop="20180408120500 -0300" channel="ESPN Brasil">
+    <title lang="pt">Arsenal x Southampton - Vivo</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20180408120500 -0300" stop="20180408122000 -0300" channel="ESPN Brasil">
+    <title lang="pt">Abre o Jogo: Premier League - Vivo</title>
+    <desc lang="pt">O "Abre o Jogo" abre a transmissão dos eventos ao vivo nos canais ESPN. Reportagens especiais, as últimas notícias e as informações atualizadas do torneio que virá a seguir(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20180408122000 -0300" stop="20180408142000 -0300" channel="ESPN Brasil">
+    <title lang="pt">Chelsea x West Ham - Vivo</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20180408142000 -0300" stop="20180408153500 -0300" channel="ESPN Brasil">
+    <title lang="pt">Bate-Bola - Vivo</title>
+    <desc lang="pt">Gols da rodada, classificação, notícias, comentários de nossos craques, entrevistas exclusivas, cartolagem, dança dos treinadores, a compra e venda de jogadores e interatividade com o fã de esporte(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20180408153500 -0300" stop="20180408174000 -0300" channel="ESPN Brasil">
+    <title lang="pt">Milan x Sassuolo - Vivo</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20180408174000 -0300" stop="20180408175500 -0300" channel="ESPN Brasil">
+    <title lang="pt">Prorrogação - Vivo</title>
+    <desc lang="pt">Depois da partida, não perca um resumo com os melhores lances, os gols, estatísticas e a classificação atualizada do campeonato(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20180408175500 -0300" stop="20180408203000 -0300" channel="ESPN Brasil">
+    <title lang="pt">Bate-Bola - Vivo</title>
+    <desc lang="pt">Gols da rodada, classificação, notícias, comentários de nossos craques, entrevistas exclusivas, cartolagem, dança dos treinadores, a compra e venda de jogadores e interatividade com o fã de esporte(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20180408203000 -0300" stop="20180408210000 -0300" channel="ESPN Brasil">
+    <title lang="pt">Futebol No Mundo - Vivo</title>
+    <desc lang="pt">O programa trata exclusivamente do futebol internacional. Entrevistas exclusivas, reportagens especiais, e, é claro, muitos gols(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20180408210000 -0300" stop="20180408220000 -0300" channel="ESPN Brasil">
+    <title lang="pt">Sportscenter: 3ª Edição - Vivo</title>
+    <desc lang="pt">Um mosaico do que acontece no futebol, basquete, vôlei e automobilismo em todas as partes do mundo. 'SportsCenter" está sempre em cima do lance, contando tudo com uma dose de humor(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20180408220000 -0300" stop="20180408233000 -0300" channel="ESPN Brasil">
+    <title lang="pt">Resenha ESPN - Vivo</title>
+    <desc lang="pt">Domingo é dia de resenha! No comando do programa, André Plihal convoca quem mais entende do riscado: os craques da ESPN, Alex e Sorin, além de convidados especiais. Todo domingo, às 22h(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20180408233000 -0300" stop="20180409003000 -0300" channel="ESPN Brasil">
+    <title lang="pt">Sportscenter</title>
+    <desc lang="pt">Um mosaico do que acontece no futebol, basquete, vôlei e automobilismo em todas as partes do mundo. 'SportsCenter" está sempre em cima do lance, contando tudo com uma dose de humor(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20180408000000 -0300" stop="20180408003000 -0300" channel="ESPN Extra">
+    <title lang="pt">Arena Esports</title>
+    <desc lang="pt">Um giro pelos esportes eletrônicos: as principais competições e notícias do mundo dos games(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180408003000 -0300" stop="20180408023000 -0300" channel="ESPN Extra">
+    <title lang="pt">Monaco x Nantes</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20180408023000 -0300" stop="20180408050000 -0300" channel="ESPN Extra">
+    <title lang="pt">NHL: Tampa Bay Lightning x Carolina Hurricanes</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Hóquei</category>
+  </programme>
+  <programme start="20180408050000 -0300" stop="20180408060000 -0300" channel="ESPN Extra">
+    <title lang="pt">Destaques do X Games Aspen</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Radical</category>
+  </programme>
+  <programme start="20180408060000 -0300" stop="20180408070000 -0300" channel="ESPN Extra">
+    <title lang="pt">Destaques do X Games Aspen</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Radical</category>
+  </programme>
+  <programme start="20180408070000 -0300" stop="20180408081500 -0300" channel="ESPN Extra">
+    <title lang="pt">EA Sports Madden NFL 18 Ultimate League</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol Americano</category>
+  </programme>
+  <programme start="20180408081500 -0300" stop="20180408083000 -0300" channel="ESPN Extra">
+    <title lang="pt">NBA Countdown</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Basquete</category>
+  </programme>
+  <programme start="20180408083000 -0300" stop="20180408090000 -0300" channel="ESPN Extra">
+    <title lang="pt">F1: The Inside Line</title>
+    <desc lang="pt">Seja bem-vindo ao mundo da principal categoria do automobilismo mundial. Acompanhe os bastidores, as principais notícias e o debate sobre as principais questões que envolvem o badalado e milionário circo da Fórmula 1(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Automobilismo</category>
+  </programme>
+  <programme start="20180408090000 -0300" stop="20180408113000 -0300" channel="ESPN Extra">
+    <title lang="pt">Basquete Universitário NCAA: Michigan x Villanova</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Basquete</category>
+  </programme>
+  <programme start="20180408113000 -0300" stop="20180408133000 -0300" channel="ESPN Extra">
+    <title lang="pt">Boxe: Ryan Garcia x Fernando Vargas</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Boxe</category>
+  </programme>
+  <programme start="20180408133000 -0300" stop="20180408153000 -0300" channel="ESPN Extra">
+    <title lang="pt">Torino x Inter</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20180408153000 -0300" stop="20180408180000 -0300" channel="ESPN Extra">
+    <title lang="pt">NBA: Oklahoma City Thunder x Houston Rockets</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Basquete</category>
+  </programme>
+  <programme start="20180408180000 -0300" stop="20180408193000 -0300" channel="ESPN Extra">
+    <title lang="pt">Bola da Vez: Belletti</title>
+    <desc lang="pt">Grandes nomes do esporte em uma conversa franca, direta e, muitas vezes, reveladora. Passado, presente e os projetos para o futuro. Toda terça, na ESPN Brasil, sob o comando de João Carlos Albuquerque(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20180408193000 -0300" stop="20180408200000 -0300" channel="ESPN Extra">
+    <title lang="pt">Esports: Por Dentro do EA Sports Madden Ultimate League: The Long Hustle</title>
+    <desc lang="pt">A FIFA Ultimate Team Championship Series é uma competição esportiva composta por seis qualificadores regionais e um evento final onde os competidores terão a oportunidade de competir pela sua participação no prize pool(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol Americano</category>
+  </programme>
+  <programme start="20180408200000 -0300" stop="20180408203000 -0300" channel="ESPN Extra">
+    <title lang="pt">Multiplayer</title>
+    <desc lang="pt">Gameplays, tutoriais, dicas e dribles de FIFA, PES, NBA2k e Madden você encontra no Multiplayer(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180408203000 -0300" stop="20180408210000 -0300" channel="ESPN Extra">
+    <title lang="pt">Matchmaking</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180408210000 -0300" stop="20180408213000 -0300" channel="ESPN Extra">
+    <title lang="pt">Arena Esports</title>
+    <desc lang="pt">Um giro pelos esportes eletrônicos: as principais competições e notícias do mundo dos games(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180408213000 -0300" stop="20180408233000 -0300" channel="ESPN Extra">
+    <title lang="pt">Real Sociedad x Girona</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20180408233000 -0300" stop="20180409004500 -0300" channel="ESPN Extra">
+    <title lang="pt">EA Sports Madden NFL 18 Ultimate League</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol Americano</category>
+  </programme>
+  <programme start="20180408000000 -0300" stop="20180408013000 -0300" channel="Esporte Interativo">
+    <title lang="pt">CES MMA 49</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20180408013000 -0300" stop="20180408030000 -0300" channel="Esporte Interativo">
+    <title lang="pt">Boxe Internacional</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Boxe</category>
+  </programme>
+  <programme start="20180408030000 -0300" stop="20180408043000 -0300" channel="Esporte Interativo">
+    <title lang="pt">LFA 36</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20180408043000 -0300" stop="20180408060000 -0300" channel="Esporte Interativo">
+    <title lang="pt">WOCS</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20180408060000 -0300" stop="20180408074500 -0300" channel="Esporte Interativo">
+    <title lang="pt">Barcelona x Roma</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20180408074500 -0300" stop="20180408080000 -0300" channel="Esporte Interativo">
+    <title lang="pt">De Sola</title>
+    <desc lang="pt">Assista o programa De Sola nos canais Esporte Interativo. A zoeira não tem fim, isso sem esquecer dos nossos queridos e AMADOS comentários!(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180408080000 -0300" stop="20180408083000 -0300" channel="Esporte Interativo">
+    <title lang="pt">De Olho Na Liga</title>
+    <desc lang="pt">Os bastidores da maior competição de clubes do planeta: Histórias e notícias sobre os grandes clubes e seus astros, imagens de treinamentos, um tour pelas cidades, expectativa para as próximas rodadas e muito mais!(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20180408083000 -0300" stop="20180408113000 -0300" channel="Esporte Interativo">
+    <title lang="pt">Manchester City x Manchester United</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20180408113000 -0300" stop="20180408130000 -0300" channel="Esporte Interativo">
+    <title lang="pt">Liga Espetacular - Vivo</title>
+    <desc lang="pt">Nossos correspondentes mostram o dia-a-dia dos clubes europeus além de entrevistas, quadros especiais com os craques do melhor futebol do mundo e os bastidores de tudo  que acontece na maior competição de clubes do planeta(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20180408130000 -0300" stop="20180408130500 -0300" channel="Esporte Interativo">
+    <title lang="pt">A Narradora Lays</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20180408130500 -0300" stop="20180408140500 -0300" channel="Esporte Interativo">
+    <title lang="pt">No Ar com André Henning</title>
+    <desc lang="pt">André Henning toma seu café matinal com convidados e repercute as principais notícias esportivas no Brasil e no mundo trazendo informação, irreverência e muita opinião para a sua manhã(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20180408140500 -0300" stop="20180408154500 -0300" channel="Esporte Interativo">
+    <title lang="pt">Conexão EI - Vivo</title>
+    <desc lang="pt">Os comentaristas do Esporte Interativo se encontram para debater as principais notícias do mundo esportivo, com olhares críticos, informações de última hora, precisas e quentes(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Debate</category>
+  </programme>
+  <programme start="20180408154500 -0300" stop="20180408181500 -0300" channel="Esporte Interativo">
+    <title lang="pt">Fortaleza x Ceará - Vivo</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180408181500 -0300" stop="20180408184500 -0300" channel="Esporte Interativo">
+    <title lang="pt">Pós Jogo</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180408184500 -0300" stop="20180408210000 -0300" channel="Esporte Interativo">
+    <title lang="pt">Botafogo PB x Campinense - Vivo</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20180408210000 -0300" stop="20180408231500 -0300" channel="Esporte Interativo">
+    <title lang="pt">Fim de Papo - Vivo</title>
+    <desc lang="pt">Quando o juiz apita, é Fim de Papo! Todas as informações do seu time após o fim da rodada na mesa de debate mais descontraída da TV brasileira: Gols, entrevistas coletivas e claro, muita informação(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20180408231500 -0300" stop="20180408233000 -0300" channel="Esporte Interativo">
+    <title lang="pt">Alê Oliveira Responde</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180408233000 -0300" stop="20180408234500 -0300" channel="Esporte Interativo">
+    <title lang="pt">De Sola</title>
+    <desc lang="pt">Assista o programa De Sola nos canais Esporte Interativo. A zoeira não tem fim, isso sem esquecer dos nossos queridos e AMADOS comentários!(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180408234500 -0300" stop="20180409013000 -0300" channel="Esporte Interativo">
+    <title lang="pt">CRB x CSA</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20180408001500 -0300" stop="20180408020000 -0300" channel="Esporte Interativo 2">
+    <title lang="pt">Liverpool x Manchester City</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20180408020000 -0300" stop="20180408034500 -0300" channel="Esporte Interativo 2">
+    <title lang="pt">Campinense x Botafogo</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20180408034500 -0300" stop="20180408053000 -0300" channel="Esporte Interativo 2">
+    <title lang="pt">Barcelona x Roma</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20180408053000 -0300" stop="20180408060000 -0300" channel="Esporte Interativo 2">
+    <title lang="pt">Mundo da Bola</title>
+    <desc lang="pt">Os melhores lances da semana dos craques do melhor futebol do mundo estão aqui. Os tops de golaços, defesas, dribles, jogadas e tudo mais envolvendo os astros de Real Madrid, Barcelona, Chelsea, Manchester United(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20180408060000 -0300" stop="20180408074500 -0300" channel="Esporte Interativo 2">
+    <title lang="pt">Itabaiana x Sergipe</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20180408074500 -0300" stop="20180408093000 -0300" channel="Esporte Interativo 2">
+    <title lang="pt">Juventus x Real Madrid</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20180408093000 -0300" stop="20180408111500 -0300" channel="Esporte Interativo 2">
+    <title lang="pt">Liverpool x Manchester City</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20180408111500 -0300" stop="20180408114500 -0300" channel="Esporte Interativo 2">
+    <title lang="pt">De Olho Na Liga</title>
+    <desc lang="pt">Os bastidores da maior competição de clubes do planeta: Histórias e notícias sobre os grandes clubes e seus astros, imagens de treinamentos, um tour pelas cidades, expectativa para as próximas rodadas e muito mais!(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20180408114500 -0300" stop="20180408144500 -0300" channel="Esporte Interativo 2">
+    <title lang="pt">Manchester City x Manchester United</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20180408144500 -0300" stop="20180408154500 -0300" channel="Esporte Interativo 2">
+    <title lang="pt">No Ar com André Henning</title>
+    <desc lang="pt">André Henning toma seu café matinal com convidados e repercute as principais notícias esportivas no Brasil e no mundo trazendo informação, irreverência e muita opinião para a sua manhã(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20180408154500 -0300" stop="20180408180000 -0300" channel="Esporte Interativo 2">
+    <title lang="pt">CRB x CSA  - Vivo</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20180408180000 -0300" stop="20180408203000 -0300" channel="Esporte Interativo 2">
+    <title lang="pt">Imperatriz x Moto Club - Vivo</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20180408203000 -0300" stop="20180408221500 -0300" channel="Esporte Interativo 2">
+    <title lang="pt">Fortaleza x Ceará</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20180408221500 -0300" stop="20180409000000 -0300" channel="Esporte Interativo 2">
+    <title lang="pt">Botafogo x Campinense</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+</tv>
